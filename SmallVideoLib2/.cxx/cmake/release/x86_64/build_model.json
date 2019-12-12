@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/chencl/SoftWare/SmallVideoRecord2",
+      "sdkFolder": "/home/chencl/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/build/intermediates",
+      "gradleModulePathName": ":SmallVideoLib2",
+      "moduleRootFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2",
+      "makeFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/chencl/SoftWare/SmallVideoRecord2/.cxx",
+      "cxxFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx",
+      "ndkFolder": "/home/chencl/Android/Sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "release",
+    "soFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/build/intermediates/cmake/release/lib",
+    "objFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64",
+  "jsonFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64",
+  "objFolder": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/build/intermediates/cmake/release/obj/x86_64",
+  "buildCommandFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/build_command.txt",
+  "buildOutputFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/build_output.txt",
+  "modelOutputFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cxx/release/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/chencl/SoftWare/SmallVideoRecord2/SmallVideoLib2/.cxx/cmake/release/x86_64/compile_commands.json"
+}

@@ -1,0 +1,15 @@
+# ninja log v5
+1	31	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_log.cpp.o	81b3beb7d6220af9
+31	324	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/ffmpeg_filter.c.o	348dd0cac80a6d74
+1	372	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/cmdutils.c.o	b531852a3070f91d
+372	494	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_ffmpeg_cmd_run.c.o	14350df3b5ecc789
+1	533	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_ffmpeg_config.cpp.o	76c7873ffa0d6bed
+0	583	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_media_muxer.cpp.o	4d70e7771d44f967
+1	634	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/threadsafe_queue.cpp.o	805f06bc7bac0197
+0	660	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_jni_handler.cpp.o	c4bcdb823a655acc
+1	697	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/ffmpeg.c.o	9dcbf61617f2acb9
+0	763	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_yuv_encode_h264.cpp.o	b42dc7e9b746e9af
+0	770	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_ffmpeg_jni.cpp.o	9b0b9a71616fe412
+324	776	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/ffmpeg_opt.c.o	fb5d531239ec6347
+0	809	0	CMakeFiles/jx_ffmpeg_jni.dir/src/main/cpp/jx_pcm_encode_aac.cpp.o	2992695b081eaa0a
+809	981	0	../../../../build/intermediates/cmake/debug/obj/x86/libjx_ffmpeg_jni.so	c9a1f6c4e83a6d8d
